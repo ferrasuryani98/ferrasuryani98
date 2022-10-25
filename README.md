@@ -15,5 +15,5 @@
 - Data Visualization: Tableau, Google Data Studio, Power BI
 - Project Management: Jira, Github
 
-### **Skills**
+### **Projectss**
 - Amazon Ads x Columbia Hackathon (Top 4 Finalist) -  <a href="https://docs.google.com/presentation/d/1XRg9JZP9ZfiOrOjJCtl4P4Pxf7F764Nc2cLDY-Nrs8k/edit?usp=sharing">measuring the appropriateness of advertiisng dog food brands on Amazon</a>
