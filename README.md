@@ -16,4 +16,4 @@
 - Project Management: Jira, Github
 
 ### **Projectss**
-- Amazon Ads x Columbia Hackathon (Top 4 Finalist) -  <a href="[[https://drive.google.com/file/d/1WL7ROQ5Vu2oQRP5RNASwboTAlU-XPWLx/view?usp=sharing](https://drive.google.com/file/d/1Cr7z2DC3Z7KAoy_ILai1Sh2D_CXrSh1S/view?usp=sharing)](https://drive.google.com/file/d/1u6V6sc77-Rj4SPxvrGI9G_Wwzeul-617/view?usp=sharing)">measuring the appropriateness of advertising dog food brands on Amazon</a>
+- Amazon Ads x Columbia Hackathon (Top 4 Finalist) -  <a href="https://drive.google.com/file/d/1WL7ROQ5Vu2oQRP5RNASwboTAlU-XPWLx/view?usp=sharing">measuring the appropriateness of advertising dog food brands on Amazon</a>
