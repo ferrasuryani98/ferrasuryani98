@@ -6,6 +6,7 @@
 - 📈 An aspiring future data professional (Data Scientist / Data Engineer) with working experience in the IoT, Telecommunications, and e-commerce spaces
 - 💭 Always excited to hit the gym, play golf, take pictures, drink coffee, read productivity / self-improvement books, and eat my way through anything!
 - 📩 Reach me at fks2114@columbia.edu or <a href="https://www.linkedin.com/in/ferrasuryani/">LinkedIn</a>
+- 💡 Check out my portfolio <a href="https://ferrasuryani98.github.io/hello/">here</a>
 
 
 ### **Skills**
@@ -15,5 +16,5 @@
 - Data Visualization: Tableau, Google Data Studio, Power BI
 - Project Management: Jira, Github
 
-### **Projectss**
-- Amazon Ads x Columbia Hackathon (Top 4 Finalist) -  <a href="https://drive.google.com/file/d/1u6V6sc77-Rj4SPxvrGI9G_Wwzeul-617/view?usp=sharing">measuring the appropriateness of advertising dog food brands on Amazon</a>
+### **Projects**
+- Amazon Ads x Columbia Hackathon (Top 4 Finalist) -  <a href="https://drive.google.com/file/d/1u6V6sc77-Rj4SPxvrGI9G_Wwzeul-617/view">measuring the appropriateness of advertising dog food brands on Amazon</a>
