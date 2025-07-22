@@ -2,19 +2,16 @@
 
 
 
-- 👩🏻‍💻 A data geek currently working towards my M.S. in Applied Analytics at Columbia University (Dec 2022)
-- 📈 An aspiring future data professional (Data Scientist / Data Engineer) with working experience in the IoT, Telecommunications, and e-commerce spaces
-- 💭 Always excited to hit the gym, play golf, take pictures, drink coffee, read productivity / self-improvement books, and eat my way through anything!
-- 📩 Reach me at fks2114@columbia.edu or <a href="https://www.linkedin.com/in/ferrasuryani/">LinkedIn</a>
+- 👩🏻‍💻 A Data Scientist with 3+ years of experience with a M.S. in Applied Analytics from Columbia
+- 💭 I find joy in DJ-ing/producing EDM songs <a href="https://linktr.ee/beatsbytanova">beatsbytanova</a>, hitting the gym, playing golf, taking pictures, and cooking!
+- 📩 Reach me at ferra.k.suryani@gmail.com or <a href="https://www.linkedin.com/in/ferrasuryani/">LinkedIn</a>
 - 💡 Check out my portfolio <a href="https://ferrasuryani98.github.io/hello/">here</a>
 
 
 ### **Skills**
-- Programming: Python, R, SQL
-- Data Science: Linear and Logistic Regression, A/B Testing, NLP, Hypothesis Testing, Statistical Analysis, Probability & Statistics, Data Wrangling / Manipulation.
-- Data Engineering: ETL pipeline, Airflow (python), SQL for Data Engineering (Snowflake), AWS (S3 and Redshift), MongoDB, Apache Spark 
-- Data Visualization: Tableau, Google Data Studio, Power BI
-- Project Management: Jira, Github
-
-### **Projects**
-- Amazon Ads x Columbia Hackathon (Top 4 Finalist) - <a href="https://drive.google.com/file/d/1u6V6sc77-Rj4SPxvrGI9G_Wwzeul-617/view">measuring the appropriateness of advertising dog food brands on Amazon</a>
+- Languages/Tools: Python, R, SQL
+- Experimental Design: Hypothesis Testing, A/B Testing, Multivariate testing, Causal Inference, Multivariate Testing
+- Advanced Analytics: Lookalike Modeling, Multi-Touch Attribution, Marketing Mix Modeling, Audience Segmentation, Cohort
+Analysis, Churn Forecasting
+- Machine Learning: Linear/Logistic Regression, Decision Trees, Random Forest, XGBoost, Clustering (K-means, HDBSCAN)
+- Data Infrastructure: GCP, AWS (Redshift, S3), PySpark, Airflow, dbt, ETL/ELT, Snowflake
