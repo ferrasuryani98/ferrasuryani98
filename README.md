@@ -2,7 +2,7 @@
 
 
 
-- 👩🏻‍💻 A Data Scientist with 3+ years of experience with a M.S. in Applied Analytics from Columbia
+- 👩🏻‍💻 A Data Scientist with 4+ years of experience with a M.S. in Applied Analytics from Columbia
 - 💭 I find joy in DJ-ing/producing EDM songs <a href="https://beatsbytanova.com">beatsbytanova</a>, hitting the gym, boxing and muay thai, playing golf, taking pictures, and cooking!
 - 📩 Reach me at ferra.k.suryani@gmail.com or <a href="https://www.linkedin.com/in/ferrasuryani/">LinkedIn</a>
 - 💡 Check out my data science portfolio <a href="https://ferrasuryani98.github.io/hello/">here</a>
